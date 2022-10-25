@@ -7,7 +7,6 @@ body {
 }
 nav {
     background-color: #e2a213;
-    border
     text-align: center;
     margin-left: 100px;
     margin-right: 100px;
@@ -18,3 +17,49 @@ div#NavBar a {
     font-size: xx-large;
     color: black;
 }
+p#DeltaFiveParagraph{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 700px;
+    height: 250px;
+
+}
+img#DeltaFiveLogo {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding: 10px 10px;
+}
+p#MTNBarbellParagraph{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 700px;
+    height: 250px;
+
+}
+img#MTNPhoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding: 10px 10px;
+}
+p#background {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 700px;
+    height: 250px;
+}
+img#backgroundphoto {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    padding: 10px 10px;
+}
+
+
