@@ -23,15 +23,34 @@ body {
     background: black;
     text-align: center;
 }
+table {
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    background-color: white;
+    border: 1px solid;
+    width:50%;}
+td {    
+    text-align: left;
+    height: 25px;
+}
+th {
+background-color: #e2a213;
+}
+th, td {
+    padding:5px;
+}
 nav {
     background-color: #e2a213;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: auto;
+    margin-right: auto;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 div#NavBar a {
-    padding: 100px 100px;
+    padding: 150px 150px;
     font-size: xx-large;
     color: black;
 }
@@ -88,5 +107,10 @@ img#backgroundphoto {
     padding: 10px 10px;
     background-color: #e2a213;
 }
+
+form {
+    background-color: white;
+}
+
 
 
