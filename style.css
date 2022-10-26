@@ -1,9 +1,27 @@
 h1 {
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
 }
+h2 {
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+h3{
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+h4{
+    text-align: center;
+    font-size: medium;
+    color: white;
+}
+
 body {
-    background: white;
+    background: black;
+    text-align: center;
 }
 nav {
     background-color: #e2a213;
@@ -23,6 +41,8 @@ p#DeltaFiveParagraph{
     text-align: left;
     width: 700px;
     height: 250px;
+    background-color:  #e2a213;
+    color: black;
 
 }
 img#DeltaFiveLogo {
@@ -31,6 +51,7 @@ img#DeltaFiveLogo {
     height: 200px;
     float: right;
     padding: 10px 10px;
+    background-color: #878787
 }
 p#MTNBarbellParagraph{
     margin-left: auto;
@@ -38,6 +59,8 @@ p#MTNBarbellParagraph{
     text-align: left;
     width: 700px;
     height: 250px;
+    background-color:  #878787;
+    color: black;
 
 }
 img#MTNPhoto {
@@ -46,6 +69,7 @@ img#MTNPhoto {
     height: 200px;
     float: right;
     padding: 10px 10px;
+    background-color: #e2a213
 }
 p#background {
     margin-left: auto;
@@ -53,6 +77,8 @@ p#background {
     text-align: left;
     width: 700px;
     height: 250px;
+    background-color:  white;
+    color: black;
 }
 img#backgroundphoto {
     border-radius: 50%;
@@ -60,6 +86,7 @@ img#backgroundphoto {
     height: 200px;
     float: right;
     padding: 10px 10px;
+    background-color: #e2a213;
 }
 
 
