@@ -107,10 +107,23 @@ img#backgroundphoto {
     padding: 10px 10px;
     background-color: #e2a213;
 }
-
+div#instagram {
+    text-align: center;
+    background-color: #878787;
+    margin: auto;
+}
+blockquote {
+    text-align: center;
+    margin: auto;
+}
 form {
     background-color: white;
 }
 
-
+div#calculate1RM {
+    color: black;
+    background-color: #e2a213;
+    padding: auto;
+    margin: auto;
+}
 
